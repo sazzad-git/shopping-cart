@@ -1,0 +1,51 @@
+export const products = [
+    {
+      id: 1,
+      title: "Woo Ninja",
+      description: "Pink",
+      price: "35",
+      img: "https://dynamic.zacdn.com/vtZ-es5QXfS4OqYxC7lA4nByHvA=/fit-in/346x500/filters:quality(95):fill(ffffff)/https://static-hk.zacdn.com/p/onitsuka-tiger-6200-9395116-1.jpg",
+      quantity: 0,
+    },
+    {
+      id: 2,
+      title: "Woo Logo",
+      description: "Blue",
+      price: "35",
+      img: "https://i.pinimg.com/originals/fb/b2/71/fbb271cbc3e21230680f8b275b6fbb13.jpg",
+      quantity: 0,
+    },
+    {
+      id: 3,
+      title: "Woo Ninja",
+      description: "black",
+      price: "35",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrJ6pAWdymLbYXvhUVMAIHbcHlpla1KRw1zw&usqp=CAU",
+      quantity: 0,
+    },
+    {
+      id: 4,
+      title: "Woo Ninja",
+      description: "Black",
+      price: "51",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFYO8NkRZwaLyzEnXL5ZeoAvAqwaLEZeKY_w&usqp=CAU",
+      quantity: 0,
+    },
+    {
+      id: 5,
+      title: "Woo Logo",
+      description: "Red",
+      price: "35",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpBP8Ch6aADkBjKzQwZfHgK6hFxR4UeNlVQ&usqp=CAU",
+      quantity: 0,
+    },
+    {
+      id: 6,
+      title: "Woo Logo",
+      description: "White",
+      price: "35",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbaBJSEM8cQmaHCRth9f7qZ4OsA6jcTs-Njw&usqp=CAU",
+      quantity: 0,
+    },
+  ];
+  
